@@ -125,6 +125,8 @@ AI发展至今，已经在各个领域产生了深远的影响。特别是大模
 # 手把手设置步骤
 具体的代码比较简单，代码已经上传到github上，感兴趣的可以下载下来尝试一下：
 
+> https://github.com/llq20133100095/crewai_stock_analysis
+
 首先需要安装对应的python包：
 > pip install -r requirment.txt
 
