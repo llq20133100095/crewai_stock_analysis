@@ -1,0 +1,13 @@
+crewai==0.11.0
+unstructured
+pyowm
+tools
+wikipedia
+yfinance
+sec-api
+tiktoken
+faiss-cpu
+python-dotenv
+langchain-community
+langchain-core
+openai
